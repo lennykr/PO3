@@ -3,6 +3,8 @@
 
 ## Cursus, Opdrachten & Toepassing
 
+[Certificaat](https://www.udemy.com/certificate/UC-40ad022a-4c96-4403-acca-d0ae34cac189)
+
 Voor het vak *Professionele ontwikkeling 3* heb ik de volledige cursus (36.5u videomateriaal) [NodeJS - The Complete Guide (incl. MVC, REST APIs, GraphQL)](https://www.udemy.com/course/nodejs-the-complete-guide/) afgerond. 
 
 ### De eerste 6 taken (Monolithic App, MVC-structuur):
